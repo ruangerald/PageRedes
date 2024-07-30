@@ -39,3 +39,6 @@ h2{
 p {
     padding: 12px;
 }
+@media (max-width: 600px) {
+    
+}
