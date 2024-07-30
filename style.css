@@ -39,6 +39,12 @@ h2{
 p {
     padding: 12px;
 }
-@media (max-width: 600px) {
-    
+div img {
+    height: 500px;
+    width: 500px;
+}
+@media (max-width: 500px) {
+    img {
+        width: 170px;
+    }
 }
